@@ -36,7 +36,7 @@ dependencies:
   intl: ^0.17.0
   flutter_launcher_icons: ^0.9.3
   auto_size_text: ^3.0.0
-
+  translator: ^0.1.7
   cloud_firestore: ^3.2.1
   firebase_core: ^1.19.1
   firebase_auth: ^3.4.1
